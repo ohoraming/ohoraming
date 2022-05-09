@@ -6,7 +6,7 @@
 ## 🚀 Projects
 - [webmarket](https://github.com/ohoraming/webmarket_jsp_project): 카페/숙소/맛집의 정보를 확인하고 예약할 수 있는 웹페이지(JSP)입니다.
 - [mkDocumentifyJS](https://github.com/kkn1125/mkDocumentifyJS): (JS) 사용자가 만든 JavaScript API를 JavaScript로 파일을 파싱해 문서화하는 애플리케이션입니다.
-- [todoList](https://ohoraming.github.io/todoList): (JS) 간단한 일정을 관리하는 애플리케이션입니다.
+- [todoList](https://github.com/ohoraming/todoList): (JS) 간단한 일정을 관리하는 애플리케이션입니다.
 - [scheduler](https://github.com/ohoraming/project-django): (Python-Django) FullCalendar를 이용한 스케줄러입니다.
 
 ## 📒 Blog
