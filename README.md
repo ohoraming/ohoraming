@@ -4,8 +4,8 @@
 - **함께 일하는 즐거움**과 그 가치를 소중하게 생각합니다.
 
 ## 🚀 Projects
-- [webmarket](https://github.com/ohoraming/webmarket_jsp_project): 카페/숙소/맛집의 정보를 확인하고 예약할 수 있는 웹페이지(JSP)입니다.
-- [scheduler](https://github.com/ohoraming/project-django): (Python-Django) FullCalendar를 이용한 스케줄러입니다.
+- [VAMOS](https://github.com/ohoraming/jsp_vamos): 카페/숙소/맛집의 정보를 확인하고 예약할 수 있는 웹페이지(JSP)입니다.
+- [SCHEDULER](https://github.com/ohoraming/project-django): (Python-Django) FullCalendar를 이용한 스케줄러입니다.
 
 ## 📒 Blog
 [배움을 기록하는 블로그입니다](https://ohoraming.github.io/)
