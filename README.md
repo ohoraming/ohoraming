@@ -5,6 +5,7 @@
 
 ## 🚀 Projects
 - [VAMOS](https://github.com/ohoraming/jsp_vamos): 카페/숙소/맛집의 정보를 확인하고 예약할 수 있는 웹페이지(JSP)입니다.
+- [PLUS_Routine](https://github.com/ohoraming/django_Plus_routine): (Python-Django) 일정을 등록하고 평가하는 애플리케이션입니다.
 - [SCHEDULER](https://github.com/ohoraming/project-django): (Python-Django) FullCalendar를 이용한 스케줄러입니다.
 
 ## 📒 Blog
