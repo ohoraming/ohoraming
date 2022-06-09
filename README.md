@@ -3,6 +3,9 @@
 - 매일 **꾸준히 성장**하는 삶을 지향하며 **배움**을 즐깁니다.
 - **함께 일하는 즐거움**과 그 가치를 소중하게 생각합니다.
 
+## 🥽 Resume
+- [Resume](https://ohoraming.github.io/my_resume/)
+
 ## 🚀 Projects
 - [VAMOS](https://github.com/ohoraming/jsp_vamos): 카페/숙소/맛집의 정보를 확인하고 예약할 수 있는 웹페이지(JSP)입니다.
 - [PLUS_Routine](https://github.com/ohoraming/django_Plus_routine): (Python-Django) 일정을 등록하고 평가하는 애플리케이션입니다.
