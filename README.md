@@ -29,3 +29,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 📈 Statistics
+<a href="https://github.com/ohoraming/github-readme-stats">
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=ohoraming&show_icons=true&theme=radical&locale=kr" />
+</a>
+<a href="https://github.com/ohoraming/github-readme-stats">
+  <img height="150" align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohoraming&layout=compact&theme=radical&locale=kr" />
+</a>
