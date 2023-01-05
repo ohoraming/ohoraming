@@ -1,10 +1,10 @@
 ## 👋 Hi there 
-꾸준히 노력하고 성장하는 예비 개발자, **김민지**입니다.
+꾸준히 노력하고 성장하는 백엔드 개발자, **김민지**입니다.
 - 매일 **꾸준히 성장**하는 삶을 지향하며 **배움**을 즐깁니다.
 - **함께 일하는 즐거움**과 그 가치를 소중하게 생각합니다.
 
-## 🥽 Resume
-- [Resume](https://ohoraming.github.io/my_resume/)
+<!-- ## 🥽 Resume -->
+<!-- - [Resume](https://ohoraming.github.io/my_resume/) -->
 
 ## 🚀 Projects
 - [PROJECT NARANG](https://github.com/ohoraming/narang): (React-Spring Boot) 일기를 쓰고, 공유하며 나의 감정을 AI로 분석하는 감정 케어 서비스입니다.
